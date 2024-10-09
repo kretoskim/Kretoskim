@@ -11,8 +11,6 @@
 
 - I’m looking to collaborate on **Game Development projects**
 
-- I’m looking for help with **Animation and Game Projects**
-
 - All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
 
 - Ask me about **Games, Animation**
