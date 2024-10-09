@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Baraka Kimaro</h1>
+<h1 align="center">Hi 👋, I'm Baraka Kimaro</h1>
 <h3 align="center">A 3D / Technical Artist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kretoskim" alt="kretoskim" /></a> </p>
@@ -18,8 +18,6 @@
 - 💬 Ask me about **Games, Animation**
 
 - 📫 How to reach me **kretoskim@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
