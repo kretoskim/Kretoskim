@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/kretoskim" target="blank"><img src="https://img.shields.io/twitter/follow/kretoskim?logo=twitter&style=for-the-badge" alt="kretoskim" /></a> </p>
 
-- 🔭 I’m currently working on [Gamification of Ubongo Kids](https://github.com/ACoastGame/A-Tale-of-Tanzania)
+- I’m currently working on [Gamification of Ubongo Kids](https://github.com/ACoastGame/A-Tale-of-Tanzania)
 
-- 🌱 I’m currently learning **Python Automation in Maya**
+- I’m currently learning **Python Automation in Maya**
 
-- 👯 I’m looking to collaborate on **Game Development projects**
+- I’m looking to collaborate on **Game Development projects**
 
-- 🤝 I’m looking for help with **Animation and Game Projects**
+- I’m looking for help with **Animation and Game Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
+- All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
 
-- 💬 Ask me about **Games, Animation**
+- Ask me about **Games, Animation**
 
-- 📫 How to reach me **kretoskim@gmail.com**
+- How to reach me **kretoskim@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
