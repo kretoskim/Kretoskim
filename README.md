@@ -7,7 +7,7 @@
 
 - I’m currently working on [Gamification of Ubongo Kids](https://github.com/ACoastGame/A-Tale-of-Tanzania)
 
-- I’m currently learning **Python Automation in Maya**
+- I’m currently learning **Python Automation in Maya/Blender**
 
 - I’m looking to collaborate on **Game Development projects**
 
