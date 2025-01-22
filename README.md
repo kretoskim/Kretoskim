@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kretoskim" target="blank"><img src="https://img.shields.io/twitter/follow/kretoskim?logo=twitter&style=for-the-badge" alt="kretoskim" /></a> </p>
 
-- I’m currently working on [The Explorer Project]https://github.com/kretoskim/ProtoypeProject)
+- I’m currently working on The Explorer Project  https://github.com/kretoskim/ProtoypeProject)
 
 - I’m currently learning **Python Automation in Maya/Blender**
 
