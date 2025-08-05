@@ -1,37 +1,54 @@
 <h1 align="center">Hi, I'm Baraka Kimaro</h1>
-<h3 align="center">A 3D Artist | Game Dev</h3>
+<h3 align="center">3D Artist | Game Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kretoskim" alt="kretoskim" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kretoskim" target="blank"><img src="https://img.shields.io/twitter/follow/kretoskim?logo=twitter&style=for-the-badge" alt="kretoskim" /></a> </p>
-
-- I’m currently working on **The Explorer Project**,  where I’m developing and refining interactive gameplay mechanics.
-
-- In parallel, I’m advancing my expertise in **Python Automation for Blender**, focusing on streamlining production workflows and enhancing efficiency in 3D content creation.
-
-- I’m seeking collaboration opportunities in **Game Development projects**, particularly in areas involving gameplay programming, technical art, and pipeline automation.
-
-- All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
-
-- Feel free to reach out if you’d like to discuss **Game Development**, **Technical Art**, or **Workflow Automation**.
-
-- How to reach me **kretoskim@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kretoskim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/baraka solomon kimaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraka solomon kimaro" height="30" width="40" /></a>
-<a href="https://instagram.com/kretos)kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kretos)kim" height="30" width="40" /></a>
-<a href="https://www.behance.net/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kretoskim" height="30" width="40" /></a>
-<a href="https://medium.com/@kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kretoskim" height="30" width="40" /></a>
-<a href="https://discord.gg/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kretoskim" height="30" width="40" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kretoskim" alt="kretoskim" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://twitter.com/kretoskim" target="blank">
+    <img src="https://img.shields.io/twitter/follow/kretoskim?logo=twitter&style=for-the-badge" alt="kretoskim" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kretoskim&show_icons=true&locale=en&layout=compact" alt="kretoskim" /></p>
+---
+
+- 🌱 I’m currently working on **[The Explorer Project](https://github.com/kretoskim/ProtoypeProject)**, developing and refining interactive gameplay mechanics.
+
+- 🛠️ I’m expanding my expertise in **Python Automation for Blender**, focusing on optimizing production workflows and enhancing efficiency in 3D content creation.
+
+- 🤝 I’m seeking collaboration opportunities in **Game Development projects**, especially in **Gameplay Programming**, **Technical Art**, and **Pipeline Automation**.
+
+- 📂 All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
+
+- 📫 How to reach me: **kretoskim@gmail.com**
+
+---
+
+### 🧰 Languages & Tools I Work With:
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
+
+---
+
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://twitter.com/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kretoskim" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/baraka solomon kimaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraka solomon kimaro" height="30" width="40" /></a>
+  <a href="https://instagram.com/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kretoskim" height="30" width="40" /></a>
+  <a href="https://www.behance.net/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kretoskim" height="30" width="40" /></a>
+  <a href="https://medium.com/@kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kretoskim" height="30" width="40" /></a>
+  <a href="https://discord.gg/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kretoskim" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kretoskim&show_icons=true&locale=en" alt="kretoskim" /></p>
+
