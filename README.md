@@ -7,9 +7,9 @@
 
 - I’m currently working on **The Explorer Project**  https://github.com/kretoskim/ProtoypeProject) where I’m developing and refining interactive gameplay mechanics.
 
--In parallel, I’m advancing my expertise in **Python Automation for Blender**, focusing on streamlining production workflows and enhancing efficiency in 3D content creation.
+- In parallel, I’m advancing my expertise in **Python Automation for Blender**, focusing on streamlining production workflows and enhancing efficiency in 3D content creation.
 
--I’m seeking collaboration opportunities in **Game Development projects**, particularly in areas involving gameplay programming, technical art, and pipeline automation.
+- I’m seeking collaboration opportunities in **Game Development projects**, particularly in areas involving gameplay programming, technical art, and pipeline automation.
 
 - All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
 
