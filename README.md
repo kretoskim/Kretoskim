@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/kretoskim" target="blank"><img src="https://img.shields.io/twitter/follow/kretoskim?logo=twitter&style=for-the-badge" alt="kretoskim" /></a> </p>
 
-- I’m currently working on **The Explorer Project**  https://github.com/kretoskim/ProtoypeProject)
+- I’m currently working on **The Explorer Project**  https://github.com/kretoskim/ProtoypeProject) where I’m developing and refining interactive gameplay mechanics.
 
-- I’m currently advancing my expertise in **Python Automation for Blender**, with a focus on optimizing production workflows and improving efficiency in 3D projects.
+-In parallel, I’m advancing my expertise in **Python Automation for Blender**, focusing on streamlining production workflows and enhancing efficiency in 3D content creation.
 
-- I’m looking to collaborate on **Game Development projects**
+-I’m seeking collaboration opportunities in **Game Development projects**, particularly in areas involving gameplay programming, technical art, and pipeline automation.
 
 - All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
 
-- Ask me about **Games, Technical Art**
+- Feel free to reach out if you’d like to discuss **Game Development**, **Technical Art**, or **Workflow Automation**.
 
 - How to reach me **kretoskim@gmail.com**
 
