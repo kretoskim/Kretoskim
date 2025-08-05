@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kretoskim" target="blank"><img src="https://img.shields.io/twitter/follow/kretoskim?logo=twitter&style=for-the-badge" alt="kretoskim" /></a> </p>
 
-- I’m currently working on **The Explorer Project**  https://github.com/kretoskim/ProtoypeProject) where I’m developing and refining interactive gameplay mechanics.
+- I’m currently working on **The Explorer Project**,  where I’m developing and refining interactive gameplay mechanics.
 
 - In parallel, I’m advancing my expertise in **Python Automation for Blender**, focusing on streamlining production workflows and enhancing efficiency in 3D content creation.
 
