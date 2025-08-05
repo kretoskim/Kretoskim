@@ -15,7 +15,7 @@
 
 ---
 
--  I’m currently working on **[The Explorer Project]**, developing and refining interactive gameplay mechanics.
+-  I’m currently working on **The Explorer Project**, developing and refining interactive gameplay mechanics.
 
 -  I’m expanding my expertise in **Python Automation for Blender**, focusing on optimizing production workflows and enhancing efficiency in 3D content creation.
 
