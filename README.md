@@ -7,13 +7,13 @@
 
 - I’m currently working on **The Explorer Project**  https://github.com/kretoskim/ProtoypeProject)
 
-- I’m currently learning **Python Automation in Maya/Blender**
+- I’m currently exploring **Python Automation in Blender**
 
 - I’m looking to collaborate on **Game Development projects**
 
 - All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
 
-- Ask me about **Games, Animation**
+- Ask me about **Games, Technical Art**
 
 - How to reach me **kretoskim@gmail.com**
 
