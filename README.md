@@ -7,7 +7,7 @@
 
 - I’m currently working on **The Explorer Project**  https://github.com/kretoskim/ProtoypeProject)
 
-- I’m currently exploring **Python Automation in Blender**
+- I’m currently advancing my expertise in **Python Automation for Blender**, with a focus on creating custom scripts and tools to optimize production workflows and improve efficiency in 3D projects.
 
 - I’m looking to collaborate on **Game Development projects**
 
