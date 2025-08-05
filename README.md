@@ -15,15 +15,15 @@
 
 ---
 
-- 🌱 I’m currently working on **[The Explorer Project]**, developing and refining interactive gameplay mechanics.
+-  I’m currently working on **[The Explorer Project]**, developing and refining interactive gameplay mechanics.
 
-- 🛠️ I’m expanding my expertise in **Python Automation for Blender**, focusing on optimizing production workflows and enhancing efficiency in 3D content creation.
+-  I’m expanding my expertise in **Python Automation for Blender**, focusing on optimizing production workflows and enhancing efficiency in 3D content creation.
 
-- 🤝 I’m seeking collaboration opportunities in **Game Development projects**, especially in **Gameplay Programming**, **Technical Art**, and **Pipeline Automation**.
+-  I’m seeking collaboration opportunities in **Game Development projects**, especially in **Gameplay Programming**, **Technical Art**, and **Pipeline Automation**.
 
-- 📂 All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
+-  All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
 
-- 📫 How to reach me: **kretoskim@gmail.com**
+-  How to reach me: **kretoskim@gmail.com**
 
 ---
 
