@@ -15,7 +15,7 @@
 
 ---
 
--  I’m currently working on **Kitchen Chaos**, developing and refining multiplayer gameplay mechanics.
+-  I’m currently working on **Wind Chaser**, developing and refining gameplay mechanics.
 
 -  I’m expanding my expertise in **Python Automation for Blender**, focusing on optimizing production workflows and enhancing efficiency in 3D content creation.
 
