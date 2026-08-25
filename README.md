@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Baraka Kimaro</h1>
-<h3 align="center">3D Artist | Game Developer</h3>
+<h3 align="center">3D Technical Artist | Unity Developer</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
