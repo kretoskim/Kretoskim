@@ -17,6 +17,7 @@
 I build tools and interactive systems at the intersection of art and engineering, including Python automation for Blender production pipelines and Unity gameplay/rendering systems.
 
 🧩 Interactive Tools & Pipeline Automation
+
 SteamDeck_Blender — Python: Use a Steam Deck as a physical input device to drive viewport navigation in Blender, mapping controller input to camera orbit/pan/zoom for a faster, hands-on modeling workflow.
 
 Distance-Auto-adjust — Python: A Blender scripting tool that automatically repositions a mesh based on its proximity to another mesh — built for rig/asset workflows where objects need to react to spatial relationships without manual keyframing.
