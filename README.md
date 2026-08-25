@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Baraka Kimaro</h1>
-<h3 align="center">3D Technical Artist | Unity Developer</h3>
+<h3 align="center">3D Technical Artist | Gameplay & Pipeline Programmer</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -14,34 +14,42 @@
 </p>
 
 ---
+I build tools and interactive systems at the intersection of art and engineering 
+-  Python automation for Blender production pipelines and Unity gameplay/rendering systems.
 
--  I’m currently working on **Winds Chaser**, developing and refining gameplay mechanics.
+🧩 Interactive Tools & Pipeline Automation
+SteamDeck_Blender — Python: Use a Steam Deck as a physical input device to drive viewport navigation in Blender, mapping controller input to camera orbit/pan/zoom for a faster, hands-on modeling workflow.
 
--  I’m expanding my expertise in **Python Automation for Blender**, focusing on optimizing production workflows and enhancing efficiency in 3D content creation.
+Distance-Auto-adjust — Python A Blender scripting tool that automatically repositions a mesh based on its proximity to another mesh — built for rig/asset workflows where objects need to react to spatial relationships without manual keyframing.
 
--  All of my projects are available at [https://github.com/kretoskim](https://github.com/kretoskim)
+🎮 Also Shipping: Winds Chaser
+A desert sci-fi off-roader game (Unity 6 / URP) where I handle both art and programming: a custom stylized toon-shading render pipeline.
+
+I'm actively expanding this side of my work — more Python-for-Blender tooling focused on production efficiency is in progress.
+
+Focus areas: Blender Python scripting & pipeline tooling · procedural rigging · Unity URP shader/render pipelines · Gameplay programming
+
+🤝 Open to Collaborating On
+
+Gameplay Programming · Technical Art · Pipeline Automation
 
 -  How to reach me: **kretoskim@gmail.com**
 
 ---
 
 ### 🧰 Languages & Tools I Work With:
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
   <a href="https://twitter.com/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kretoskim" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/baraka solomon kimaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraka solomon kimaro" height="30" width="40" /></a>
-  <a href="https://instagram.com/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kretoskim" height="30" width="40" /></a>
-  <a href="https://www.behance.net/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kretoskim" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/baraka-kimaro-b6633a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraka solomon kimaro" height="30" width="40" /></a>
   <a href="https://medium.com/@kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kretoskim" height="30" width="40" /></a>
-  <a href="https://discord.gg/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kretoskim" height="30" width="40" /></a>
 </p>
 
 ---
