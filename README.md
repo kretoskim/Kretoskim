@@ -23,6 +23,7 @@ SteamDeck_Blender — Python: Use a Steam Deck as a physical input device to dri
 Distance-Auto-adjust — Python: A Blender scripting tool that automatically repositions a mesh based on its proximity to another mesh — built for rig/asset workflows where objects need to react to spatial relationships without manual keyframing.
 
 🎮 Also Shipping: Winds Chaser
+
 A desert sci-fi off-roader game (Unity 6 / URP) where I handle both art and programming: a custom stylized toon-shading render pipeline.
 
 I'm actively expanding this side of my work — more Python-for-Blender tooling focused on production efficiency is in progress.
