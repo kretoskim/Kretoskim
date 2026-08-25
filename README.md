@@ -24,7 +24,7 @@ Distance-Auto-adjust — Python: A Blender scripting tool that automatically rep
 
 🎮 Also Shipping: Winds Chaser
 
-A desert sci-fi off-roader game (Unity 6 / URP) where I handle both art and programming: a custom stylized toon-shading render pipeline.
+A desert sci-fi off-roader game (Unity 6 / URP) where I handle both art and programming
 
 I'm actively expanding this side of my work — more Python-for-Blender tooling focused on production efficiency is in progress.
 
