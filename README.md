@@ -26,9 +26,9 @@ Distance-Auto-adjust — Python: A Blender scripting tool that automatically rep
 
 A desert sci-fi off-roader game (Unity 6 / URP) where I handle both art and programming
 
-I'm actively expanding this side of my work — more Python-for-Blender tooling focused on production efficiency is in progress.
+I'm actively expanding this side of my work; more Python-for-Blender tooling focused on production efficiency is in progress.
 
-Focus areas: Blender Python scripting & pipeline tooling · procedural rigging · Unity URP shader/render pipelines · Gameplay programming
+Focus areas: Blender Python scripting & pipeline tooling · Procedural rigging · Unity URP shader/render pipelines · Gameplay programming
 
 🤝 Open to Collaborating On
 
