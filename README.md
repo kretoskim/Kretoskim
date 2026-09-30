@@ -48,13 +48,7 @@ Gameplay Programming · Technical Art · Pipeline Automation
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://twitter.com/kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kretoskim" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/baraka-kimaro-b6633a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraka solomon kimaro" height="30" width="40" /></a>
-  <a href="https://medium.com/@kretoskim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kretoskim" height="30" width="40" /></a>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kretoskim&show_icons=true&locale=en" alt="kretoskim" /></p>
-
