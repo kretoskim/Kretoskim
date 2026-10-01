@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Baraka Kimaro</h1>
 <h3 align="center">3D Technical Artist | Gameplay & Pipeline Programmer</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kretoskim" alt="kretoskim" />
-  </a>
-</p>
-
 ---
 I build tools and interactive systems at the intersection of art and engineering, including Python automation for Blender production pipelines and Unity gameplay/rendering systems.
 
