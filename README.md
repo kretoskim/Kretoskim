@@ -7,12 +7,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/kretoskim" target="blank">
-    <img src="https://img.shields.io/twitter/follow/kretoskim?logo=twitter&style=for-the-badge" alt="kretoskim" />
-  </a>
-</p>
-
 ---
 I build tools and interactive systems at the intersection of art and engineering, including Python automation for Blender production pipelines and Unity gameplay/rendering systems.
 
