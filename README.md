@@ -33,10 +33,3 @@ Gameplay Programming · Technical Art · Pipeline Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/baraka-kimaro-b6633a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraka solomon kimaro" height="30" width="40" /></a>
-</p>
-
----
