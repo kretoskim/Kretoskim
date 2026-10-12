@@ -22,8 +22,6 @@ Focus areas: Blender Python scripting & pipeline tooling · Procedural rigging �
 
 Gameplay Programming · Technical Art · Pipeline Automation
 
--  How to reach me: **kretoskim@gmail.com**
-
 ---
 
 ### 🧰 Languages & Tools I Work With:
